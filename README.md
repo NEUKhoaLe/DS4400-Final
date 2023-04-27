@@ -59,4 +59,5 @@ classifying these images. CNN makes sense for this because we are classifying im
 
 ## References:
 https://www.kaggle.com/datasets/msambare/fer2013
+
 https://www.digitalocean.com/community/tutorials/how-to-detect-and-extract-faces-from-an-image-with-opencv-and-python
