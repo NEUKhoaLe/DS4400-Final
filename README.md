@@ -53,7 +53,7 @@ classifying these images. CNN makes sense for this because we are classifying im
  
  In this project, I made 4 differenct CNN models to classify facial expressions into 7 different categories. Between each CNN models, I compared their 
  performance and implemented them differently and uniquely. The strongest CNN model has similar structure to recommended settings, such as batch normalization and 
- perceptron dropouts, which leads to better accuracy but much longer training time. I also included a sample script from a website that runs an OpenCV function to detact faces 
+ perceptron dropouts, which leads to better accuracy but much longer training time. I added an extra feedforward layer to increase performance. I also included a sample script from a website that runs an OpenCV function to detact faces 
  in any images, and output them. In the future, we can use this function to pass through extracted faces into our strongest CNN model to automatically classify any 
  images.
 
